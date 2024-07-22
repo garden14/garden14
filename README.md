@@ -26,9 +26,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <br>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
   <br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/ROS2-22314E-Foxy-3766AB?style=flat-square&logo=ROS2-Foxy&logoColor=white/"></a>&nbsp 
+    <img src="https://img.shields.io/badge/ROS2-Foxy-3766AB?style=flat-square&logo=ROS2-Foxy&logoColor=white/"></a>&nbsp 
 </p>
