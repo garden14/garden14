@@ -27,5 +27,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/ROS2-foxy-orange/"></a>&nbsp 
+    <img src="https://img.shields.io/badge/ROS2-Foxy-E95420?style=flat-square&logo=ROS2-Foxy&logoColor=white/"></a>&nbsp 
 </p>
